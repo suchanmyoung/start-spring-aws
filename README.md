@@ -14,3 +14,6 @@ SQL Mapper는 쿼리를 매핑하는 것이다.
   * 계층 간에 데이터 교환을 위한 객체
 * Domain Model
   * 개발 대상을 모든 사람이 동일한 관점에서 이해할 수 있게 단순화 시킨 영역, @Entity나 VO 등이 위치
+* LocalDate
+  * Java8 지원, LocalDate와 LocalDateTime으로 Date 타입 개선
+  * 기존의 Date 객체는 불변 객체가 아니며, Month 설계가 잘못됨
