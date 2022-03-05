@@ -17,3 +17,6 @@ SQL Mapper는 쿼리를 매핑하는 것이다.
 * LocalDate
   * Java8 지원, LocalDate와 LocalDateTime으로 Date 타입 개선
   * 기존의 Date 객체는 불변 객체가 아니며, Month 설계가 잘못됨
+
+* 머스테치(Mustache)
+  * 수많은 언어를 지원하는 가장 심플한 템플릿 엔진
