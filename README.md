@@ -20,3 +20,8 @@ SQL Mapper는 쿼리를 매핑하는 것이다.
 
 * 머스테치(Mustache)
   * 수많은 언어를 지원하는 가장 심플한 템플릿 엔진
+
+* Spring Sequrity
+  * 막강한 인증(Authentication)과 인가(Authorization) 기능을 가진 프레임워크. 인터셉터, 필터 기반의 보안 기능
+구현보다 시큐리티를 통해 구현하는 것을 적극 권장하고 있다.
+
